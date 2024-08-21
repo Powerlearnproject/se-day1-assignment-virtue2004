@@ -238,8 +238,8 @@ Tools and techniques in debugging include print statements and analysis of log f
 	• Open communication and respect
 	• Ensure that conflicts are dealt with in a prompt and constructive manner.
 8. Burnout and Self-Care:
-  	 Work-life balance
-	 Prominence to self-care activities like exercise, meditation, or any other hobby
+  Work-life balance
+  Prominence to self-care activities like exercise, meditation, or any other hobby
 
 So, the strategies to fight back against such challenges are as follows:
 

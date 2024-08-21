@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
   **Answer**
 Software engineering involves applying engineering principles and techniques to create, test and upkeep software systems. It follows an approach, to software development to ensure that the end products are dependable, efficient and align with the specified requirements and quality benchmarks.
 
@@ -25,6 +26,7 @@ Software engineering plays a role, in the tech industry by guaranteeing the crea
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 **Answer**
 1. 1968: NATO Software Engineering Conference
 
@@ -40,6 +42,7 @@ The Agile Manifesto '01 opened a whole new page for software development in iter
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 **Answer**
 The different phases of the Software Development Life Cycle are hereby stated:
 
@@ -79,6 +82,7 @@ Each methodology refines the phases of SDLC to fit in its approach and emphasize
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 **Answer**
 These are probably the two most well-known development methodologies in software development, differing by approach, principles, and best practices. 
 
@@ -124,6 +128,7 @@ In general, therefore, Waterfall is best fitted in projects that have well-defin
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 **Answer**
 Listed here are the roles and responsibilities for a Software Developer, Quality Assurance Engineer, and Project Manager in a software engineering team:
 
@@ -157,6 +162,7 @@ For successful software development, these three roles must be able to collabora
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 **Answer**
 The tools, besides being crucial to develop software, enhance productivity, collaboration, and code quality. These are Integrated Development Environments and Version Control Systems.
 
@@ -207,6 +213,7 @@ Therefore, IDE and VCS are important tools for software development that aid in 
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 **Answer**
 Listed below are common problems and challenges that a software engineer faces:
 
@@ -231,8 +238,8 @@ Tools and techniques in debugging include print statements and analysis of log f
 	• Open communication and respect
 	• Ensure that conflicts are dealt with in a prompt and constructive manner.
 8. Burnout and Self-Care:
-一人 Work-life balance
-二 Prominence to self-care activities like exercise, meditation, or any other hobby
+  	 Work-life balance
+	 Prominence to self-care activities like exercise, meditation, or any other hobby
 
 So, the strategies to fight back against such challenges are as follows:
 
@@ -249,6 +256,7 @@ It is in the best interests of every software engineer to recognize these diffic
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 **Answer**
 The following describes the various types of testing and their significance with regard to software quality assurance:
 
@@ -286,6 +294,7 @@ Execution of those types of testing within the software development lifecycle he
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 **Answer**
 Prompt engineering is when a system that may include language models, chatbots, or even other machine learning systems comes into contact with a human through text prompts or inputs. The mechanism underlying prompt engineering involves the creation of clear, succinct, and very well-defined prompts for eliciting specific, accurate, and relevant responses from the AI model.
 
@@ -300,6 +309,7 @@ Why is prompt engineering important?
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 **Answer**
 Vague Prompt: "Write something that includes artificial intelligence."
 
